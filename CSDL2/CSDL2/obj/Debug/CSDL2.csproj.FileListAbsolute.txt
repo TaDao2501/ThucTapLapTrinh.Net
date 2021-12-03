@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\bin\Debug\CSDL2.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\bin\Debug\CSDL2.exe
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\bin\Debug\CSDL2.pdb
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\obj\Debug\CSDL2.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\obj\Debug\CSDL2.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\obj\Debug\CSDL2.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\obj\Debug\CSDL2.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\obj\Debug\CSDL2.exe
+c:\users\dell\documents\visual studio 2013\Projects\CSDL2\CSDL2\obj\Debug\CSDL2.pdb
