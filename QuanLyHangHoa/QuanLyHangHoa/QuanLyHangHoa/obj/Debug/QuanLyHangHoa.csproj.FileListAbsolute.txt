@@ -1,0 +1,10 @@
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.exe
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\bin\Debug\QuanLyHangHoa.pdb
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csprojResolveAssemblyReference.cache
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Form1.resources
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.Properties.Resources.resources
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.csproj.GenerateResource.Cache
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+E:\C#\2021\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
+D:\QuanLyHangHoa\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.exe
+D:\QuanLyHangHoa\QuanLyHangHoa\QuanLyHangHoa\obj\Debug\QuanLyHangHoa.pdb
