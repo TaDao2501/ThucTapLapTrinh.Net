@@ -1,0 +1,16 @@
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\bin\Debug\KNCSDL.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\bin\Debug\KNCSDL.exe
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\bin\Debug\KNCSDL.pdb
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.ThongtinKH.resources
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.exe
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.pdb
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.ThongtinMH.resources
+c:\users\dell\documents\visual studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.ChiTietBanHang.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.TimKiemKH.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.TimKiemMH.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.TimKiemTTBH.resources
+C:\Users\DELL\Documents\Visual Studio 2013\Projects\KNCSDL\KNCSDL\obj\Debug\KNCSDL.login.resources
