@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\bin\Debug\18203100031_TaThiDao.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\bin\Debug\18203100031_TaThiDao.exe
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\bin\Debug\18203100031_TaThiDao.pdb
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\18203100031_TaThiDao.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\_18203100031_TaThiDao.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\_18203100031_TaThiDao.Login.resources
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\_18203100031_TaThiDao.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\18203100031_TaThiDao.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\18203100031_TaThiDao.exe
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\18203100031_TaThiDao.pdb
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\_18203100031_TaThiDao.Canbo.resources
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\_18203100031_TaThiDao.Tacgia.resources
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\_18203100031_TaThiDao.BaoCao.resources
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\RdlCompile.cache
+c:\users\dell\documents\visual studio 2013\Projects\18203100031_TaThiDao\18203100031_TaThiDao\obj\Debug\RdlCompile.compiled
