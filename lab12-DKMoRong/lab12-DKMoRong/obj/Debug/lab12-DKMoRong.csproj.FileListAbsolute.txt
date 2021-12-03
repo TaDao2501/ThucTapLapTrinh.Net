@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\bin\Debug\lab12-DKMoRong.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\bin\Debug\lab12-DKMoRong.exe
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\bin\Debug\lab12-DKMoRong.pdb
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\obj\Debug\lab12-DKMoRong.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\obj\Debug\lab12_DKMoRong.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\obj\Debug\lab12_DKMoRong.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\obj\Debug\lab12-DKMoRong.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\obj\Debug\lab12-DKMoRong.exe
+c:\users\dell\documents\visual studio 2013\Projects\lab12-DKMoRong\lab12-DKMoRong\obj\Debug\lab12-DKMoRong.pdb
