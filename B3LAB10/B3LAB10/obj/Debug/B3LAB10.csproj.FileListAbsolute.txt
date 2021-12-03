@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\bin\Debug\B3LAB10.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\bin\Debug\B3LAB10.exe
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\bin\Debug\B3LAB10.pdb
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\obj\Debug\B3LAB10.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\obj\Debug\B3LAB10.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\obj\Debug\B3LAB10.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\obj\Debug\B3LAB10.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\obj\Debug\B3LAB10.exe
+c:\users\dell\documents\visual studio 2013\Projects\B3LAB10\B3LAB10\obj\Debug\B3LAB10.pdb
